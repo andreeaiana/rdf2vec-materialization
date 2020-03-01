@@ -9,7 +9,7 @@ To run the experiments, the 2016 DBPedia dump was used. The required files (inst
 The raw datasets are stored in `Data/raw/DBpedia`.
 
 ## Enriching DBpedia
-To strategies were used to materialize subproperties, inverse, symmetric and transitive properties.
+Two strategies were used to materialize subproperties, inverse, symmetric and transitive properties:
 
 * Map DBpedia properties to Wikidata, using the DBPedia_enrichment.ipynb Jupyter notebook. The properties used in the experiments an be loaded from `Data/interim/properties/DBpedia_Wikidata_mapped_<property_type>_prop.csv`.
 * Mine symmetric, transitive and inverse properties from DBpedia with the DL_Learner tool (version 1.3.0) using the DL-Learner_enrichment.ipynb. Enrich the original graph using the DBPedia_enrichment (DLLearner).ipynb Jupyter notebook. The used properties can be loaded from `Data/interim/properties/DBpedia_dllearner_<property_type>_properties.csv`. 
