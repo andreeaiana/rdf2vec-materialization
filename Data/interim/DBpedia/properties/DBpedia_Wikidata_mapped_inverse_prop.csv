@@ -1,0 +1,9 @@
+DBpediaProp,DBPediaPropLabel,WikidataProp,WikidataPropLabel,DBpediaInvProp,DBpediaInvPropLabel,WikidataInvProp,WikidataInvPropLabel
+http://dbpedia.org/ontology/child,child,http://www.wikidata.org/entity/P40,child,http://dbpedia.org/ontology/father,father,http://www.wikidata.org/entity/P22,father
+http://dbpedia.org/ontology/child,child,http://www.wikidata.org/entity/P40,child,http://dbpedia.org/ontology/mother,mother,http://www.wikidata.org/entity/P25,mother
+http://dbpedia.org/ontology/father,father,http://www.wikidata.org/entity/P22,father,http://dbpedia.org/ontology/child,child,http://www.wikidata.org/entity/P40,child
+http://dbpedia.org/ontology/mother,mother,http://www.wikidata.org/entity/P25,mother,http://dbpedia.org/ontology/child,child,http://www.wikidata.org/entity/P40,child
+http://dbpedia.org/ontology/followedBy,followed by,http://www.wikidata.org/entity/P156,followed by,http://dbpedia.org/ontology/follows,follows,http://www.wikidata.org/entity/P155,follows
+http://dbpedia.org/ontology/follows,follows,http://www.wikidata.org/entity/P155,follows,http://dbpedia.org/ontology/followedBy,followed by,http://www.wikidata.org/entity/P156,followed by
+http://dbpedia.org/ontology/doctoralStudent,doctoral student,http://www.wikidata.org/entity/P185,doctoral student,http://dbpedia.org/ontology/doctoralAdvisor,doctoral advisor,http://www.wikidata.org/entity/P184,doctoral advisor
+http://dbpedia.org/ontology/doctoralAdvisor,doctoral advisor,http://www.wikidata.org/entity/P184,doctoral advisor,http://dbpedia.org/ontology/doctoralStudent,doctoral student,http://www.wikidata.org/entity/P185,doctoral student

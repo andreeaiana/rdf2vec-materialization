@@ -1,0 +1,8 @@
+DBpediaProp,DBpediaPropLabel,WikidataProp,WikidataPropLabel
+http://dbpedia.org/ontology/city,city,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://dbpedia.org/ontology/county,county,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://dbpedia.org/ontology/district,district,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://dbpedia.org/ontology/isPartOf,is part of,http://www.wikidata.org/entity/P361,part of
+http://dbpedia.org/ontology/locatedInArea,located in area,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://dbpedia.org/ontology/province,province,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://dbpedia.org/ontology/settlement,settlement,http://www.wikidata.org/entity/P131,located in the administrative territorial entity

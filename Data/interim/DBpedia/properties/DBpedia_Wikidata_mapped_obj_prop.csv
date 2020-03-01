@@ -1,0 +1,99 @@
+DBpediaProp,DBpediaPropLabel,WikidataProp,WikidataPropLabel
+http://dbpedia.org/ontology/almaMater,alma mater,http://www.wikidata.org/entity/P69,educated at
+http://dbpedia.org/ontology/anthem,anthem,http://www.wikidata.org/entity/P85,anthem
+http://dbpedia.org/ontology/architect,architect,http://www.wikidata.org/entity/P84,architect
+http://dbpedia.org/ontology/architecturalStyle,architectural style,http://www.wikidata.org/entity/P149,architectural style
+http://dbpedia.org/ontology/artist,performer,http://www.wikidata.org/entity/P175,performer
+http://dbpedia.org/ontology/author,author,http://www.wikidata.org/entity/P50,author
+http://dbpedia.org/ontology/award,award,http://www.wikidata.org/entity/P166,award received
+http://dbpedia.org/ontology/basedOn,based on,http://www.wikidata.org/entity/P144,based on
+http://dbpedia.org/ontology/battle,battle,http://www.wikidata.org/entity/P607,conflict
+http://dbpedia.org/ontology/birthPlace,birth place,http://www.wikidata.org/entity/P19,place of birth
+http://dbpedia.org/ontology/builder,builder,http://www.wikidata.org/entity/P176,manufacturer
+http://dbpedia.org/ontology/capital,capital,http://www.wikidata.org/entity/P36,capital
+http://dbpedia.org/ontology/ceo,chief executive officer,http://www.wikidata.org/entity/P169,chief executive officer
+http://dbpedia.org/ontology/child,child,http://www.wikidata.org/entity/P40,child
+http://dbpedia.org/ontology/cinematography,cinematography,http://www.wikidata.org/entity/P344,director of photography
+http://dbpedia.org/ontology/citizenship,citizenship,http://www.wikidata.org/entity/P27,country of citizenship
+http://dbpedia.org/ontology/city,city,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://dbpedia.org/ontology/coatOfArms,coat of arms image,http://www.wikidata.org/entity/P94,coat of arms image
+http://dbpedia.org/ontology/colour,colour,http://www.wikidata.org/entity/P462,color
+http://dbpedia.org/ontology/composer,composer,http://www.wikidata.org/entity/P86,composer
+http://dbpedia.org/ontology/computingPlatform,computing platform,http://www.wikidata.org/entity/P400,platform
+http://dbpedia.org/ontology/constellation,constellation,http://www.wikidata.org/entity/P59,constellation
+http://dbpedia.org/ontology/constructionMaterial,construction material,http://www.wikidata.org/entity/P186,material used
+http://dbpedia.org/ontology/continent,continent,http://www.wikidata.org/entity/P30,continent
+http://dbpedia.org/ontology/country,country,http://www.wikidata.org/entity/P17,country
+http://dbpedia.org/ontology/county,county,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://dbpedia.org/ontology/coverArtist,cover artist,http://www.wikidata.org/entity/P736,cover artist
+http://dbpedia.org/ontology/cpu,CPU,http://www.wikidata.org/entity/P880,CPU
+http://dbpedia.org/ontology/creator,creator (agent),http://www.wikidata.org/entity/P170,creator
+http://dbpedia.org/ontology/crewMember,crew member,http://www.wikidata.org/entity/P1029,crew member
+http://dbpedia.org/ontology/crosses,crosses,http://www.wikidata.org/entity/P177,crosses
+http://dbpedia.org/ontology/currency,currency,http://www.wikidata.org/entity/P38,currency
+http://dbpedia.org/ontology/deathCause,death cause,http://www.wikidata.org/entity/P509,cause of death
+http://dbpedia.org/ontology/deathPlace,death place,http://www.wikidata.org/entity/P20,place of death
+http://dbpedia.org/ontology/designer,designer,http://www.wikidata.org/entity/P287,designer
+http://dbpedia.org/ontology/developer,developer,http://www.wikidata.org/entity/P178,developer
+http://dbpedia.org/ontology/diocese,diocese,http://www.wikidata.org/entity/P708,diocese
+http://dbpedia.org/ontology/director,film director,http://www.wikidata.org/entity/P57,director
+http://dbpedia.org/ontology/discipline,discipline,http://www.wikidata.org/entity/P101,field of work
+http://dbpedia.org/ontology/discoverer,discoverer,http://www.wikidata.org/entity/P61,discoverer or inventor
+http://dbpedia.org/ontology/distributor,distributor,http://www.wikidata.org/entity/P750,distributor
+http://dbpedia.org/ontology/district,district,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://dbpedia.org/ontology/doctoralAdvisor,doctoral advisor,http://www.wikidata.org/entity/P184,doctoral advisor
+http://dbpedia.org/ontology/doctoralStudent,doctoral student,http://www.wikidata.org/entity/P185,doctoral student
+http://dbpedia.org/ontology/editing,editing,http://www.wikidata.org/entity/P1040,film editor
+http://dbpedia.org/ontology/editor,editor,http://www.wikidata.org/entity/P98,editor
+http://dbpedia.org/ontology/education,education,http://www.wikidata.org/entity/P69,educated at
+http://dbpedia.org/ontology/employer,employer,http://www.wikidata.org/entity/P108,employer
+http://dbpedia.org/ontology/ethnicity,ethnicity,http://www.wikidata.org/entity/P172,ethnic group
+http://dbpedia.org/ontology/father,father,http://www.wikidata.org/entity/P22,father
+http://dbpedia.org/ontology/followedBy,followed by,http://www.wikidata.org/entity/P156,followed by
+http://dbpedia.org/ontology/follows,follows,http://www.wikidata.org/entity/P155,follows
+http://dbpedia.org/ontology/foundedBy,founded by,http://www.wikidata.org/entity/P112,founder
+http://dbpedia.org/ontology/founder,founder,http://www.wikidata.org/entity/P112,founder
+http://dbpedia.org/ontology/fuelSystem,fuel system,http://www.wikidata.org/entity/P1211,fuel system
+http://dbpedia.org/ontology/gameEngine,Game Engine,http://www.wikidata.org/entity/P408,software engine
+http://dbpedia.org/ontology/generalManager,general manager,http://www.wikidata.org/entity/P505,general manager
+http://dbpedia.org/ontology/genre,genre,http://www.wikidata.org/entity/P136,genre
+http://dbpedia.org/ontology/handedness,handedness,http://www.wikidata.org/entity/P552,handedness
+http://dbpedia.org/ontology/headquarter,headquarter,http://www.wikidata.org/entity/P159,headquarters location
+http://dbpedia.org/ontology/highestPoint,highest point,http://www.wikidata.org/entity/P610,highest point
+http://dbpedia.org/ontology/highwaySystem,highway system,http://www.wikidata.org/entity/P16,highway system
+http://dbpedia.org/ontology/homeport,homeport,http://www.wikidata.org/entity/P504,home port
+http://dbpedia.org/ontology/ideology,ideology,http://www.wikidata.org/entity/P1142,political ideology
+http://dbpedia.org/ontology/illustrator,illustrator,http://www.wikidata.org/entity/P110,illustrator
+http://dbpedia.org/ontology/industry,industry,http://www.wikidata.org/entity/P452,industry
+http://dbpedia.org/ontology/inflow,inflow,http://www.wikidata.org/entity/P200,lake inflows
+http://dbpedia.org/ontology/instrument,instrument,http://www.wikidata.org/entity/P1303,instrument
+http://dbpedia.org/ontology/isPartOf,is part of,http://www.wikidata.org/entity/P361,part of
+http://dbpedia.org/ontology/launchSite,launch site,http://www.wikidata.org/entity/P448,location of spacecraft launch
+http://dbpedia.org/ontology/launchVehicle,launch vehicle,http://www.wikidata.org/entity/P375,space launch vehicle
+http://dbpedia.org/ontology/league,league,http://www.wikidata.org/entity/P118,league
+http://dbpedia.org/ontology/license,license,http://www.wikidata.org/entity/P275,license
+http://dbpedia.org/ontology/locatedInArea,located in area,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://dbpedia.org/ontology/maintainedBy,maintained by,http://www.wikidata.org/entity/P126,maintained by
+http://dbpedia.org/ontology/manager,manager,http://www.wikidata.org/entity/P286,head coach
+http://dbpedia.org/ontology/manufacturer,manufacturer,http://www.wikidata.org/entity/P176,manufacturer
+http://dbpedia.org/ontology/mother,mother,http://www.wikidata.org/entity/P25,mother
+http://dbpedia.org/ontology/movement,movement,http://www.wikidata.org/entity/P135,movement
+http://dbpedia.org/ontology/musicBy,music by,http://www.wikidata.org/entity/P86,composer
+http://dbpedia.org/ontology/musicalArtist,musical artist,http://www.wikidata.org/entity/P175,performer
+http://dbpedia.org/ontology/namedAfter,named after,http://www.wikidata.org/entity/P138,named after
+http://dbpedia.org/ontology/occupation,occupation,http://www.wikidata.org/entity/P106,occupation
+http://dbpedia.org/ontology/originalLanguage,original language,http://www.wikidata.org/entity/P364,original language of work
+http://dbpedia.org/ontology/owner,owner,http://www.wikidata.org/entity/P127,owned by
+http://dbpedia.org/ontology/party,party,http://www.wikidata.org/entity/P102,member of political party
+http://dbpedia.org/ontology/placeOfBurial,place of burial,http://www.wikidata.org/entity/P119,place of burial
+http://dbpedia.org/ontology/primeMinister,prime minister,http://www.wikidata.org/entity/P6,head of government
+http://dbpedia.org/ontology/province,province,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://dbpedia.org/ontology/recordLabel,record label,http://www.wikidata.org/entity/P264,record label
+http://dbpedia.org/ontology/religion,religion,http://www.wikidata.org/entity/P140,religion
+http://dbpedia.org/ontology/residence,residence,http://www.wikidata.org/entity/P263,official residence
+http://dbpedia.org/ontology/settlement,settlement,http://www.wikidata.org/entity/P131,located in the administrative territorial entity
+http://dbpedia.org/ontology/spouse,spouse,http://www.wikidata.org/entity/P26,spouse
+http://dbpedia.org/ontology/starring,starring,http://www.wikidata.org/entity/P161,cast member
+http://dbpedia.org/ontology/taoiseach,taoiseach,http://www.wikidata.org/entity/P6,head of government
+http://dbpedia.org/ontology/team,team,http://www.wikidata.org/entity/P54,member of sports team
+http://dbpedia.org/ontology/terytCode,TERYT code,http://www.wikidata.org/entity/P1653,TERYT municipality code

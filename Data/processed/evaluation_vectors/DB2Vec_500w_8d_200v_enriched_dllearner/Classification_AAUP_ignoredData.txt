@@ -1,0 +1,13 @@
+Classification : Ignored data: 12
+http://dbpedia.org/resource/Our_Lady_of_Holy_Cross_College
+http://dbpedia.org/resource/Bradford_College,_England
+http://dbpedia.org/resource/Regis_College
+http://dbpedia.org/resource/The_College_of_St._Scholastica
+http://dbpedia.org/resource/Doane_College
+http://dbpedia.org/resource/Felician_College
+http://dbpedia.org/resource/Richard_Stockton_College_of_New_Jersey
+http://dbpedia.org/resource/The_College_of_Saint_Rose
+http://dbpedia.org/resource/Malone_College_(Northern_Ireland)
+http://dbpedia.org/resource/Mary_Baldwin_College
+http://dbpedia.org/resource/Castleton_State_College
+http://dbpedia.org/resource/University_of_Wisconsin-Madison_School_of_Music

@@ -1,0 +1,15 @@
+Property,InverseProperty
+http://dbpedia.org/ontology/successor,http://dbpedia.org/ontology/predecessor
+http://dbpedia.org/ontology/rightChild,http://dbpedia.org/ontology/leftChild
+http://dbpedia.org/ontology/parentCompany,http://dbpedia.org/ontology/subsidiary
+http://dbpedia.org/ontology/childOrganisation,http://dbpedia.org/ontology/parentOrganisation
+http://dbpedia.org/ontology/influenced,http://dbpedia.org/ontology/influencedBy
+http://dbpedia.org/ontology/child,http://dbpedia.org/ontology/parent
+http://dbpedia.org/ontology/previousInfrastructure,http://dbpedia.org/ontology/subsequentInfrastructure
+http://dbpedia.org/ontology/branchFrom,http://dbpedia.org/ontology/branchTo
+http://dbpedia.org/ontology/predecessor,http://dbpedia.org/ontology/successor
+http://dbpedia.org/ontology/nextEvent,http://dbpedia.org/ontology/previousEvent
+http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/ontology/doctoralStudent
+http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/ontology/doctoralAdvisor
+http://dbpedia.org/ontology/previousEvent,http://dbpedia.org/ontology/nextEvent
+http://dbpedia.org/ontology/followingEvent,http://dbpedia.org/ontology/previousEvent

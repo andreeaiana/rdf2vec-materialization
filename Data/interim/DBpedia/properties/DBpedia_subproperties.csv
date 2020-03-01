@@ -1,0 +1,76 @@
+Subproperty,SubpropertyLabel,Property,PropertyLabel
+http://dbpedia.org/ontology/championInDoubleFemale,champion in double female,http://dbpedia.org/ontology/championInDouble,champion in double
+http://dbpedia.org/ontology/championInDouble,champion in double,http://dbpedia.org/ontology/champion,champion
+http://dbpedia.org/ontology/maximumDepth,maximum depth (μ),http://dbpedia.org/ontology/depth,depth (μ)
+http://dbpedia.org/ontology/eastPlace,east place,http://dbpedia.org/ontology/closeTo,is close to
+http://dbpedia.org/ontology/meshNumber,MeSH number,http://dbpedia.org/ontology/code,code
+http://dbpedia.org/ontology/politicGovernmentDepartment,politic government department,http://dbpedia.org/ontology/Department,department
+http://dbpedia.org/ontology/olympicOathSwornByJudge,olympic oath sworn by judge,http://dbpedia.org/ontology/olympicOathSwornBy,olympic oath sworn by
+http://dbpedia.org/ontology/codeNationalMonument,monument code (national),http://dbpedia.org/ontology/code,code
+http://dbpedia.org/ontology/nameInWadeGilesChinese,name in the Wade-Giles transscription of Chinese,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/northPlace,north place,http://dbpedia.org/ontology/closeTo,is close to
+http://dbpedia.org/ontology/latinName,name in latin,http://dbpedia.org/ontology/Name,name
+http://dbpedia.org/ontology/ofsCode,ofs code of a settlement,http://dbpedia.org/ontology/isoCode,iso code of a place
+http://dbpedia.org/ontology/dutchPPNCode,Dutch PPN code,http://dbpedia.org/ontology/code,code
+http://dbpedia.org/ontology/isPartOfMilitaryConflict,is part of military conflict,http://dbpedia.org/ontology/isPartOf,is part of
+http://dbpedia.org/ontology/northEastPlace,north-east place,http://dbpedia.org/ontology/closeTo,is close to
+http://dbpedia.org/ontology/ekatteCode,EKATTE code,http://dbpedia.org/ontology/codeSettlement,settlement code
+http://dbpedia.org/ontology/chorusCharacterInPlay,chorus character in play,http://dbpedia.org/ontology/characterInPlay,character in play
+http://dbpedia.org/ontology/owningOrganisation,owning organisation,http://dbpedia.org/ontology/owner,owner
+http://dbpedia.org/ontology/nextEvent,next event,http://dbpedia.org/ontology/followedBy,followed by
+http://dbpedia.org/ontology/isPartOfWineRegion,is part of wine region,http://dbpedia.org/ontology/isPartOf,is part of
+http://dbpedia.org/ontology/southPlace,south place,http://dbpedia.org/ontology/closeTo,is close to
+http://dbpedia.org/ontology/codeIndex,code on index,http://dbpedia.org/ontology/code,code
+http://dbpedia.org/ontology/senator,senator,http://dbpedia.org/ontology/MemberOfParliament,member of parliament
+http://dbpedia.org/ontology/championInMixedDouble,champion in mixed double,http://dbpedia.org/ontology/championInDouble,champion in double
+http://dbpedia.org/ontology/communityIsoCode,iso code of a community,http://dbpedia.org/ontology/isoCode,iso code of a place
+http://dbpedia.org/ontology/commandant,commandant,http://dbpedia.org/ontology/keyPerson,key person
+http://dbpedia.org/ontology/isPartOfAnatomicalStructure,is part of anatomical structure,http://dbpedia.org/ontology/isPartOf,is part of
+http://dbpedia.org/ontology/messierName,Messier name,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/dutchArtworkCode,Dutch artwork code,http://dbpedia.org/ontology/code,code
+http://dbpedia.org/ontology/playRole,play role,http://dbpedia.org/ontology/uses,uses
+http://dbpedia.org/ontology/championInDoubleMale,champion in double male,http://dbpedia.org/ontology/championInDouble,champion in double
+http://dbpedia.org/ontology/nameInJapanese,name in Japanese,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/premiereDate,premiere date,http://dbpedia.org/ontology/releaseDate,release date
+http://dbpedia.org/ontology/nameInCantoneseChinese,name in Yue Chinese,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/provinceIsoCode,iso code of a province,http://dbpedia.org/ontology/isoCode,iso code of a place
+http://dbpedia.org/ontology/dutchWinkelID,Dutch PPN code,http://dbpedia.org/ontology/code,code
+http://dbpedia.org/ontology/awayColourHexCode,colour hex code of away jersey or its parts,http://dbpedia.org/ontology/colourHexCode,colour hex code
+http://dbpedia.org/ontology/westPlace,west place,http://dbpedia.org/ontology/closeTo,is close to
+http://dbpedia.org/ontology/southWestPlace,south-west place,http://dbpedia.org/ontology/closeTo,is close to
+http://dbpedia.org/ontology/championInSingleFemale,champion in single female,http://dbpedia.org/ontology/championInSingle,champion in single
+http://dbpedia.org/ontology/numberOfPixels,number of pixels (millions),http://dbpedia.org/ontology/number,number
+http://dbpedia.org/ontology/locationCity,location city,http://dbpedia.org/ontology/location,location
+http://dbpedia.org/ontology/ngcName,NGC name,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/percentageLiteracyMen,"percentage of a place's male population that is literate, degree of analphabetism",http://dbpedia.org/ontology/percentageLiterate,"percentage of a place's population that is literate, degree of analphabetism"
+http://dbpedia.org/ontology/nameInPinyinChinese,name in Pinyin Chinese,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/olympicOathSwornByAthlete,olympic oath sworn by athlete,http://dbpedia.org/ontology/olympicOathSwornBy,olympic oath sworn by
+http://dbpedia.org/ontology/nameInHangulKorean,name in Hangul-written Korean,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/locationCountry,państwo,http://dbpedia.org/ontology/location,location
+http://dbpedia.org/ontology/championInSingle,champion in single,http://dbpedia.org/ontology/champion,champion
+http://dbpedia.org/ontology/nextMission,next mission,http://dbpedia.org/ontology/followedBy,followed by
+http://dbpedia.org/ontology/nameInSimplifiedChinese,name in Simplified Chinese,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/averageDepth,average depth (μ),http://dbpedia.org/ontology/depth,depth (μ)
+http://dbpedia.org/ontology/inseeCode,INSEE code,http://dbpedia.org/ontology/codeSettlement,settlement code
+http://dbpedia.org/ontology/northWestPlace,north-west place,http://dbpedia.org/ontology/closeTo,is close to
+http://dbpedia.org/ontology/southEastPlace,south-east place,http://dbpedia.org/ontology/closeTo,is close to
+http://dbpedia.org/ontology/nameInHanjaKorean,name in Hanja-written (traditional) Korean,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/subClassis,sub-classis,http://dbpedia.org/ontology/classis,classis
+http://dbpedia.org/ontology/codeListOfHonour,code on List of Honour,http://dbpedia.org/ontology/code,code
+http://dbpedia.org/ontology/capital,capital,http://dbpedia.org/ontology/administrativeHeadCity,head city
+http://dbpedia.org/ontology/codeProvincialMonument,monument code (provinciall),http://dbpedia.org/ontology/code,code
+http://dbpedia.org/ontology/greekName,name in ancient Greek,http://dbpedia.org/ontology/Name,name
+http://dbpedia.org/ontology/championInSingleMale,champion in single male,http://dbpedia.org/ontology/championInSingle,champion in single
+http://dbpedia.org/ontology/originalLanguage,original language,http://dbpedia.org/ontology/language,language
+http://dbpedia.org/ontology/firstPublisher,first publisher,http://dbpedia.org/ontology/publisher,publisher
+http://dbpedia.org/ontology/zipCode,zip code,http://dbpedia.org/ontology/postalCode,postal code
+http://dbpedia.org/ontology/nameInMindongyuChinese,name in Mindongyu Chinese,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/dutchNAIdentifier,Identifier for Duch National Archive,http://dbpedia.org/ontology/code,code
+http://dbpedia.org/ontology/nameInTraditionalChinese,name in Traditional Chinese,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/alias,alias,http://dbpedia.org/ontology/alternativeName,alternative name
+http://dbpedia.org/ontology/codeStockExchange,code Stock Exchange,http://dbpedia.org/ontology/code,code
+http://dbpedia.org/ontology/nameInMinnanyuChinese,name in Minnanyu Chinese,http://dbpedia.org/ontology/name,name
+http://dbpedia.org/ontology/codeMunicipalMonument,monument code (municipal),http://dbpedia.org/ontology/code,code
+http://dbpedia.org/ontology/muteCharacterInPlay,mute character in play,http://dbpedia.org/ontology/characterInPlay,character in play
+http://dbpedia.org/ontology/homeColourHexCode,colour hex code of home jersey or its parts,http://dbpedia.org/ontology/colourHexCode,colour hex code
+http://dbpedia.org/ontology/literaryGenre,literary genre,http://dbpedia.org/ontology/genre,genre

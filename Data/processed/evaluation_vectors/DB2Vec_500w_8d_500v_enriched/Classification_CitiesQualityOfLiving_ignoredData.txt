@@ -1,0 +1,8 @@
+Classification : Ignored data: 7
+http://dbpedia.org/resource/Omuta
+http://dbpedia.org/resource/Katsuyama
+http://dbpedia.org/resource/San_Juan
+http://dbpedia.org/resource/San_José
+http://dbpedia.org/resource/Nassau
+http://dbpedia.org/resource/Lome
+http://dbpedia.org/resource/Sanaa
